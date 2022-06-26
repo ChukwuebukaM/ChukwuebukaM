@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ChukwuebukaM
 - 👀 I’m interested in ... tech recruitment
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ... meet tech enthusaist 
+- 💞️ I’m looking to collaborate and meet tech enthusaist 
 - 📫 How to reach me through my mail chukwuebukamicheel@gmail.com
 
 <!---
